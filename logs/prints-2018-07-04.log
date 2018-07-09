@@ -1,0 +1,10 @@
+12:31:50.075 [main] INFO  TestFramework.basics3 - Host informationhttps://maps.googleapis.com
+12:31:50.238 [main] INFO  TestFramework.basics3 - {
+   "id" : "6b77b0e6315686428eee2798cea079d6873eac2f",
+   "place_id" : "qgYvCi0wMDAwMDAxNTFmNTc1ZjE0OjZiMTJhZTM3YjQ3OmQ5MWM5NGRiNTYwMjliMmE",
+   "reference" : "CkQxAAAAa05jEH9-XyyOI_Be-Qz7DW6a2jBFxkq301PmevDjHvtThp3BQFQBc4F31QYwnOIL6H36Xzg57_rmTJf92qUk1xIQScJf7neCcj8VOZGIxxTdThoUPYQbb7tcQOshxiF_NHFW1d5xIfs",
+   "scope" : "APP",
+   "status" : "OK"
+}
+
+12:31:50.248 [main] INFO  TestFramework.basics3 - qgYvCi0wMDAwMDAxNTFmNTc1ZjE0OjZiMTJhZTM3YjQ3OmQ5MWM5NGRiNTYwMjliMmE

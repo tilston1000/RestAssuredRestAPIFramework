@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1904" started-at="2018-07-09T12:42:08Z" finished-at="2018-07-09T12:42:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1904" started-at="2018-07-09T12:42:08Z" finished-at="2018-07-09T12:42:10Z">
+      <class name="TestFramework.basics2">
+        <test-method status="PASS" signature="createPlaceAPI()" name="createPlaceAPI" duration-ms="1889" started-at="2018-07-09T12:42:08Z" finished-at="2018-07-09T12:42:10Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

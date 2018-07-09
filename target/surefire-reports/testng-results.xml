@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5705" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T13:00:02Z">
+    <groups>
+    </groups>
+    <test name="RestAPI" duration-ms="5705" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T13:00:02Z">
+      <class name="TestFramework.basics2">
+        <test-method status="PASS" signature="createPlaceAPI()" name="createPlaceAPI" duration-ms="181" started-at="2018-07-09T12:59:59Z" finished-at="2018-07-09T12:59:59Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics5">
+        <test-method status="PASS" signature="extractingNamesAPI()" name="extractingNamesAPI" duration-ms="748" started-at="2018-07-09T12:59:59Z" finished-at="2018-07-09T13:00:00Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics6">
+        <test-method status="PASS" signature="JiraAPICreateIssue()" name="JiraAPICreateIssue" duration-ms="594" started-at="2018-07-09T13:00:00Z" finished-at="2018-07-09T13:00:01Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics3">
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="10" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T12:59:56Z">
+        </test-method>
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="0" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T12:59:56Z">
+        </test-method>
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="1" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T12:59:56Z">
+        </test-method>
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="0" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T12:59:56Z">
+        </test-method>
+        <test-method status="PASS" signature="AddandDeletePlace()" name="AddandDeletePlace" duration-ms="332" started-at="2018-07-09T12:59:59Z" finished-at="2018-07-09T12:59:59Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics4">
+        <test-method status="PASS" signature="postDataXML()" name="postDataXML" duration-ms="133" started-at="2018-07-09T12:59:59Z" finished-at="2018-07-09T12:59:59Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics7">
+        <test-method status="PASS" signature="JiraAPICreateComment()" name="JiraAPICreateComment" duration-ms="479" started-at="2018-07-09T13:00:01Z" finished-at="2018-07-09T13:00:01Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics8">
+        <test-method status="PASS" signature="JiraAPIUpdate()" name="JiraAPIUpdate" duration-ms="333" started-at="2018-07-09T13:00:01Z" finished-at="2018-07-09T13:00:02Z">
+        </test-method>
+      </class>
+      <class name="TestFramework.basics">
+        <test-method status="PASS" signature="getPlaceAPI()" name="getPlaceAPI" duration-ms="2882" started-at="2018-07-09T12:59:56Z" finished-at="2018-07-09T12:59:59Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
